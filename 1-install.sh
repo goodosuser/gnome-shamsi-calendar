@@ -13,7 +13,7 @@ mkdir -p $extDir && cp -r ./* $extDir
 
 $HOME/.local/share/gnome-shell/extensions/$extName/bin/install_fonts.sh
 
-echo ""
+echo "Salam"
 echo "Please restart gnome-shell:"
 echo "Xorg => (Alt+F2 -> r -> Enter)"
 echo "Wayland [or Xorg] => (logOut + logIn)"
